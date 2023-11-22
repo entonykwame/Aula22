@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 253, 253);
+    background: url(https://www.sindprev-es.org.br/wp-content/uploads/2021/01/dia-da-consciencia-negra-2_sindprev-768x768.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: rgba(46, 40, 40, 0.514);
+   border-radius: 100px;
+    justify-content: center;
+    text-align: center;
+    font-size: 2em;
+    
+}
+h1 img{
+    border-radius: 50%;
+    width: 250px;
+    height: 200px;
+
+}
+
+p{
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.zumbi{
+border-radius: 10px;
+margin-left: 50%;
+transform: translate(-50%);
+}
+
+h2{
+    text-align: center;
+}
+h2 img{
+    border-radius: 15px;
+}
